@@ -1,4 +1,5 @@
 {
+    "projectId": "r9famk",
     "baseUrl": "https://notes-serverless-app.com",
     "env": {
         "viewportWidthBreakpoint": 768
