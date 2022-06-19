@@ -1,5 +1,10 @@
 {
     "baseUrl": "https://notes-serverless-app.com",
+    "env": {
+        "viewportWidthBreakpoint": 768
+    },
+    "experimentalStudio": true,
     "experimentalSessionSupport": true,
-    "defaultCommandTimeout": 30000
+    "chromeWebSecurity": false,
+    "defaultCommandTimeout": 100000
 }
