@@ -7,5 +7,5 @@
     "experimentalStudio": true,
     "experimentalSessionSupport": true,
     "chromeWebSecurity": false,
-    "defaultCommandTimeout": 100000
+    "defaultCommandTimeout": 30000
 }
